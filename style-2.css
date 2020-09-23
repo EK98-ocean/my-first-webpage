@@ -1,0 +1,30 @@
+body{
+    background-color: lightskyblue;
+}
+h1{
+    color: purple;
+    font-size: 100pt;
+    font-family: cursive;
+}
+p{
+    font-size: 20pt;
+    color: lightpink;
+    font-family: Helvetica;
+}
+div{
+  background-color: thistle;
+  color: aqua;
+}
+strong{
+    color: red;
+    font-weight: bold;
+}
+em{
+    font-style: italic;
+    color: pink;
+}
+ul{
+    line-height: 10pt;
+    font: italic;
+    background-color: powderblue;
+}
